@@ -1,0 +1,134 @@
+.non{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    width: 200px;
+ 
+}
+.qalin{
+    margin: 20px;
+}
+.container1{
+    background-color: cornflowerblue;
+    width: 350px;
+    height: auto;
+    border: 2px solid black;
+    margin: 20px;
+}
+.container2{
+    background-color: cornflowerblue;
+    width: 350px;
+    height: auto;
+    border: 2px solid black;
+}
+.dv1{
+    border: 1px solid black;
+    border-radius:100px;
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+
+}
+.dv2{
+    border: 1px solid black;
+    border-radius:100px;
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+
+}
+.dv3{
+    border: 1px solid black;
+    border-radius:100px;
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.kattasi{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.K{
+    text-align: center;
+}
+.U{
+    text-align: center;
+}
+.Q{
+    text-align: center;
+}
+.Usti{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+.qoshimcha{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+p{
+    font-size: 20px;
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.box {
+    
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+  }
+  .cross {
+    cursor: pointer;
+    color: red;
+  }
+  button{
+    height: 50px;
+    width: 100px;
+    border-radius: 40px;
+    background-color: burlywood;
+    color: brown;
+    border: 2px solid black;
+    margin-left: 125px;
+  }
+  .bo{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+  }
+  input{
+    height: 20px;
+    width: 100px;
+    border-radius: 40px;
+    background-color: burlywood;
+    color: brown;
+    border: 2px solid black;
+    
+  }
+  .aa{
+    color: red;
+  }
